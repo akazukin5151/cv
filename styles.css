@@ -10,7 +10,11 @@
 
 #intro {
     margin-top: 20px;
-    margin-bottom: -15px
+    margin-bottom: -15px;
+    width: 65vw;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center
 }
 
 .m-l-20 {
