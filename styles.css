@@ -88,3 +88,8 @@ h2 {
         margin-bottom: 5px
     }
 }
+
+#phones {
+    display: flex;
+    flex-direction: column;
+}
